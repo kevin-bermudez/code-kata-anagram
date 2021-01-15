@@ -2,7 +2,7 @@
   "name": "code-kata-anagram",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "getTwoWordsAnagramsForDocumenting.js",
   "scripts": {
     "test": "jest --watchAll"
   },
